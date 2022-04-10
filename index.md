@@ -22,7 +22,7 @@ Now, we will cover the app's installation process.
 
 ---
 
-## Task 2: Establish A Remote Connection to `IENG6` Servers
+## Task 2: Establishing A Remote Connection to IENG6 Servers
 
 IENG6 are the servers provided by UCSD for students to access remotely. In order to connect to the server, we must run commands on our client system which grant us a Secure Shell (SSH) into the servers. Once enrolled in an applicable course, students are given an account to access the server from. The general format for these usernames is: csxxyyzz where x is the course number (i.e. 15L for CSE15L), y is the quarter taken (i.e. sp22 for a course taken in Spring 2022) and z will be the unique account letters (i.e. ab, .., yz, etc). An example student account might be `cs15lsp22EZ'. 
 
@@ -32,7 +32,7 @@ IENG6 are the servers provided by UCSD for students to access remotely. In order
 
 3. Here, we'l be running this command: 
 
-    `ssh cs(YOUR-LOGIN-HERE)@ieng6.ucsd.edu`
+    `ssh (YOUR-STUDENT-ACCOUNT-HERE)@ieng6.ucsd.edu`
 
 4. After doing so, you should be prompted to enter your password. Enter your newly set password here (password will not appear when being typed, this is _okay_ and a _normal_ security feature. See image below).
 
@@ -41,7 +41,7 @@ IENG6 are the servers provided by UCSD for students to access remotely. In order
 5. Congrats, you're now connected to your student account on ieng6! We can now continue with the rest of the lab.
 
 
-## Task 3: Running Commands From Your `IENG6` Account
+## Task 3: Running Commands From Your IENG6 Account
 
 While it's cool to be able to connect to a computer remotely, what purpose does it serve? One reason we've connected to ieng6 is to run commands. Within our account's directories, we can copy, rename, delete, list, or transfer files! Let's try some of these commands. 
 
@@ -49,11 +49,11 @@ While it's cool to be able to connect to a computer remotely, what purpose does 
 Type the command: `ls -c`. What was the result? 
 
 
-## Task 4: Copying Files To/From The Remote Server Using `SCP`
+## Task 4: Copying Files To/From The Remote Server Using SCP
 
 
-## Task 5: Setting Up Passwordless Login Using `SSH Keys`
+## Task 5: Setting Up Passwordless Login Using SSH Keys
 
 
-## Task 6: Optimize Remote Acitivities
+## Task 6: Optimizing Remote Acitivities
 
