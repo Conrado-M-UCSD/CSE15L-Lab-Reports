@@ -28,6 +28,8 @@ IENG6 are the servers provided by UCSD for students to access remotely. In order
 
 1. Visit the [UCSD ETS Account Lookup](https://sdacs.ucsd.edu/~icc/index.php) website to find your ieng6 account. Once you have your cs15l account, head to the [UCSD Global Password Reset](https://sdacs.ucsd.edu/~icc/password.php) website to chane your password, which will now be set for your cs15l ieng6 account. (NOTE: Password changes can take some time, so don't be worried if the change is not immediately reflected)
 
+    ![Image](/imgs/ets_form.png)
+
 2. Open VSCode select the "Terminal" then "New Terminal" tab from the menu along the top of the app window (or use the hotkey shortcut __Ctrl+Shift+\'__)
 
 3. Here, we'l be running this command: 
