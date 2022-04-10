@@ -16,8 +16,9 @@ Now, we will cover the app's installation process.
 
 2. Once installer has downloaded, run the setup application to install VSCode on your system. 
 
-3. ...and you've now installed VSCode on your computer!
+3. ...and you've now installed VSCode on your computer! After selecting theme settings, your app will be open to a screen similar to what's shown below. 
 
+![Image](/imgs/vscode-main-page.png)
 
 ---
 
@@ -25,15 +26,17 @@ Now, we will cover the app's installation process.
 
 IENG6 are the servers provided by UCSD for students to access remotely. In order to connect to the server, we must run commands on our client system which grant us a Secure Shell (SSH) into the servers. Once enrolled in an applicable course, students are given an account to access the server from. The general format for these usernames is: csxxyyzz where x is the course number (i.e. 15L for CSE15L), y is the quarter taken (i.e. sp22 for a course taken in Spring 2022) and z will be the unique account letters (i.e. ab, .., yz, etc). An example student account might be `cs15lsp22EZ'. 
 
-1. Visit the UCSD ETS password changing tool website to set a password for you ieng6 account (note: this must be done before logging into your student account and can take some time to set the new password, so it's recommended to do this before the lab sction). 
+1. Visit the [UCSD ETS Account Lookup](https://sdacs.ucsd.edu/~icc/index.php) website to find your ieng6 account. Once you have your cs15l account, head to the [UCSD Global Password Reset](https://sdacs.ucsd.edu/~icc/password.php) website to chane your password, which will now be set for your cs15l ieng6 account. (NOTE: Password changes can take some time, so don't be worried if the change is not immediately reflected)
 
-2. After entering this new password and waiting some time, open VSCode and take note of the `terminal` section. 
+2. Open VSCode select the "Terminal" then "New Terminal" tab from the menu along the top of the app window (or use the hotkey shortcut __Ctrl+Shift+\'__)
 
 3. Here, we'l be running this command: 
 
-    `ssh cs(YOURLOGINHERE)@ieng6.ucsd.edu`
+    `ssh cs(YOUR-LOGIN-HERE)@ieng6.ucsd.edu`
 
-4. After doing so, you should be prompted to enter your password. Enter your newly set password here (password will not appear when being typed, this is OKAY and a normal security feature). 
+4. After doing so, you should be prompted to enter your password. Enter your newly set password here (password will not appear when being typed, this is _okay_ and a _normal_ security feature. See image below).
+
+    ![Image](/imgs/ssh_password.png)
 
 5. Congrats, you're now connected to your student account on ieng6! We can now continue with the rest of the lab.
 
