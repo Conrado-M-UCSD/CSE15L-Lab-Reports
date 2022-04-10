@@ -14,7 +14,8 @@ Now, we will cover the app's installation process.
 
 ![Image](/imgs/vscode-download.png)
 
-2. Once installer has downloaded, 
+2. Once installer has downloaded, run the setup application. 
+
 
 3. placeholder
 
@@ -26,20 +27,27 @@ Now, we will cover the app's installation process.
 
 ## Task 2: Establish A Remote Connection to `IENG6` Servers
 
-IENG6 are the servers provided by UCSD for students to access remotely. In order to connect to the server, we must run commands on our client system which grant us a Secure Shell (SSH) into the servers. Once enrolled in an applicable course, students are given an account to access the server from. The general format for these usernames is: CSxxyyzz where x is the course number (i.e. 15L for CSE15L), y is the quarter taken (i.e. sp22 for a course taken in Spring 2022) and z will be the unique account letters (i.e. ab, .., yz, etc). 
-1. Task 
+IENG6 are the servers provided by UCSD for students to access remotely. In order to connect to the server, we must run commands on our client system which grant us a Secure Shell (SSH) into the servers. Once enrolled in an applicable course, students are given an account to access the server from. The general format for these usernames is: csxxyyzz where x is the course number (i.e. 15L for CSE15L), y is the quarter taken (i.e. sp22 for a course taken in Spring 2022) and z will be the unique account letters (i.e. ab, .., yz, etc). An example student account might be `cs15lsp22EZ'. 
 
-2. TAsk 
+1. Visit the UCSD ETS password changing tool website to set a password for you ieng6 account (note: this must be done before logging into your student account and can take some time to set the new password, so it's recommended to do this before the lab sction). 
 
-3. TaSk
+2. After entering this new password and waiting some time, open VSCode and take note of the `terminal` section. 
 
-4. tasK
+3. Here, we'l be running this command: 
 
-5. TaSk
+    `ssh cs(YOURLOGINHERE)@ieng6.ucsd.edu`
 
-6. Another task 
+4. After doing so, you should be prompted to enter your password. Enter your newly set password here (password will not appear when being typed, this is OKAY and a normal security feature). 
+
+5. Congrats, you're now connected to your student account on ieng6! We can now continue with the rest of the lab.
+
 
 ## Task 3: Running Commands From Your `IENG6` Account
+
+While it's cool to be able to connect to a computer remotely, what purpose does it serve? One reason we've connected to ieng6 is to run commands. Within our account's directories, we can copy, rename, delete, list, or transfer files! Let's try some of these commands. 
+
+1. We first want to see what folders exist in our starting directory. 
+Type the command: `ls -c`. What was the result? 
 
 
 ## Task 4: Copying Files To/From The Remote Server Using `SCP`
