@@ -10,18 +10,14 @@ In this document, you will learn how to install and make use of VSCode, connect 
 
 Visual Studio Code is an application that allows us to write code, see previews of markdown text, and run commands from our terminal. 
 Now, we will cover the app's installation process. 
-1. Visit the VSCode [download page](https://code.visualstudio.com/Download) and download the app which corresponds to your operating system version (in my case, I will download the Windows 64-bit installer).
+1. Visit the VSCode [download page](https://code.visualstudio.com/Download) and download the app which corresponds to your operating system version (in my case, I'll download the Windows 64-bit installer).
 
 ![Image](/imgs/vscode-download.png)
 
-2. Once installer has downloaded, run the setup application. 
+2. Once installer has downloaded, run the setup application to install VSCode on your system. 
 
+3. ...and you've now installed VSCode on your computer!
 
-3. placeholder
-
-4. placeholder
-
-5. placeholder
 
 ---
 
