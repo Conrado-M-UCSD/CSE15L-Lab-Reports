@@ -5,6 +5,6 @@ Here is the collection of lab reports I've completed in CSE15L
 This lab report covers install of vscode, connecting to and running commands on ieng6, and transferring files with scp.
 Find it [here]()
 
-#Lab Report #2 (Wee 4) 
+# Lab Report #2 (Wee 4) 
 This lab report covers the process of debugging as explored in Lab 3. We found bugs in the provided implementation by creating test cases. 
 
