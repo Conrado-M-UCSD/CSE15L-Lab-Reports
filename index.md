@@ -114,4 +114,4 @@ Isn't it great to ssh or scp without a password? Similarly, we can optimize othe
 
 Nice job! By this point, you have been able to set up your VSCode environment, connect to your ieng6 server account to run commands and copy files, generate and make use of ssh keys for passwordless login, and other ways to make accessing the server more convenient. I hope you enjoyed learning more about software tools and techniques!
 
-[Test link for lab report standalone doc](lab-report-1-week-2.html)
+[Test link for lab report standalone doc](https://Conrado-M-UCSD.github.io/CSe15L-Week-2-Lab-Reort/lab-report-1-week-2.html)
