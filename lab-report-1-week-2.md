@@ -1,5 +1,5 @@
-[Return to homepage](https://Conrado-M-UCSD.github.io/CSE15L-Lab-Reports/index.html)
-# CSE 15 Lab Report Week 2
+[Return to Homepage](https://Conrado-M-UCSD.github.io/CSE15L-Lab-Reports/index.html)
+# CSE 15 Lab Report 1 (Week 2)
 ## By Conrado Martinez
 
 In this document, you will learn how to install and make use of VSCode, connect to and run commands from IENG6, transfer files using scp, and generate SSH keys for passwordless login. 
