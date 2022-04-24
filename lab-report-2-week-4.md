@@ -1,3 +1,4 @@
+[Return to Report Homepage](https://conrado-m-ucsd.github.io/CSE15L-Week-2-Lab-Report/index.html)
 # Lab Report 2 (Week 4) 
 CSE 15L SP22
 
