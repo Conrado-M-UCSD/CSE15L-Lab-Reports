@@ -1,12 +1,8 @@
 # CSE15L Lab Reports by Conrado Martinez
 Here is the collection of lab reports I've completed in CSE15L
 
-# Lab Report #1 (Week 2)
-This lab report covers install of vscode, connecting to and running commands on ieng6, and transferring files with scp.
+Visit my github pages site [here](https://conrado-m-ucsd.github.io/CSE15L-Lab-Reports/).
 
-Find it [here](linkToLabReport1)
-
-# Lab Report #2 (Week 4) 
-This lab report covers the process of debugging as explored in Lab 3. We found bugs in the provided implementation by creating test cases. We fixed these bugs and documented the process.
-
-Check it out [here](linkToLabReport2)
+### Current contents (as of 4/24/22) 
+- Lab Report 1 (Week 2)
+- Lab Report 2 (Week 4) 
