@@ -1,4 +1,4 @@
-[Return to Report Homepage](https://conrado-m-ucsd.github.io/CSE15L-Week-2-Lab-Report/index.html)
+[Return to Report Homepage](https://conrado-m-ucsd.github.io/CSE15L-Lab-Reports/index.html)
 # CSE 15 Lab Report Week 2
 ## By Conrado Martinez
 
