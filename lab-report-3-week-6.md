@@ -1,3 +1,4 @@
+[Return to Homepage](https://Conrado-M-UCSD.github.io/CSE15L-Lab-Reports/index.html)
 # Lab Report 3: Increasingly Efficient!
 
 So far, our lab activities have leveraged our skills in many common workflow scenarios, like connecting to a remote server and making use of GitHub for verion control and continuous integration. For many tasks that one would complete using these skills, there are ways we can spend less time on the "in-betweens" of software devolpment and focus on the main task at hand. In this Lab Report, I'll explore some of the ways this can be done. Specifically, I'll be *Streamlining My SSH Configuration*, *Setting up GitHub Access from ieng6*, and *copying whole directories using `scp -r`*. So let's get started!
