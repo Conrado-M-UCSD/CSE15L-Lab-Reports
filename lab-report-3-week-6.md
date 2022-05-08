@@ -16,6 +16,7 @@ Logging into our specific ieng6 account can be tedious and can take up a large c
 ![image](imgs/lr3/task%201/ssh.success.png)
 
 **Connecting to server for scp using alias:**
+
 ![image](imgs/lr3/task%201/scp.success.png)
 
 With these changes, we can now access our remote server account in much less time compared to before. 
