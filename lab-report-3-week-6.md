@@ -22,9 +22,9 @@ Logging into our specific ieng6 account can be tedious and can take up a large c
 
 With these changes, we can now access our remote server account in much less time compared to before. 
 
-# Task 2: 
+## Task 2: 
 
-# Task 3: 
+## Task 3 Copying Whole Directories: 
 
 We can also speed up our tasks by copying whole directories using `scp -r` which will recursively copy the contents of the specified directory. This method is greatly prefered over having to scp each individual file (especially when working with many files and directories). 
 
