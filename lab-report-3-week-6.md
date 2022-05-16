@@ -22,7 +22,7 @@ Logging into our specific ieng6 account can be tedious and can take up a large c
 
 With these changes, we can now access our remote server account in much less time compared to before. 
 
-## Task 2: Setting Up GitHub Access From ineg6 account 
+## Task 2: Setting Up GitHub Access From ineg6 Account 
 
 It may also be helpful to enable access to our GitHub account from ieng6, so I'll now demonstrate how I was able to do this. 
 
