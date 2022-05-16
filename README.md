@@ -7,3 +7,5 @@ Visit my github pages site [here](https://conrado-m-ucsd.github.io/CSE15L-Lab-Re
 - Lab Report 1 (Week 2)
 - Lab Report 2 (Week 4) 
 - Lab Report 3 (Week 6) In Progress...
+
+edit from ieng6 here :)
