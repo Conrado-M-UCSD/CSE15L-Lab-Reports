@@ -6,6 +6,5 @@ Visit my github pages site [here](https://conrado-m-ucsd.github.io/CSE15L-Lab-Re
 ### Current contents (as of 4/24/22) 
 - Lab Report 1 (Week 2)
 - Lab Report 2 (Week 4) 
-- Lab Report 3 (Week 6) In Progress...
-
-changes made from ieng6 here :) 
+- Lab Report 3 (Week 6) 
+- future reports here...
