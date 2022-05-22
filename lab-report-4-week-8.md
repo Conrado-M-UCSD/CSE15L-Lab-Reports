@@ -11,46 +11,12 @@ The implementation that I tested in lab 7 can be found [here](https://github.com
 
 __Test snippet 1:__ 
 
-`[a link`](url.com)
-
-[another link](`google.com)`
-
-[`cod[e`](google.com)
-
-[`code]`](ucsd.edu)
+![image](imgs/lr4/snippet-1.png)
 
 __Test Snippet 2:__
 
-[a [nested link](a.com)](b.com)
+![image](imgs/lr4/snippet-2.png)
 
-[a nested parenthesized url](a.com(()))
+__Test Snippet 3:__ 
 
-[some escaped \[ brackets \]](example.com)
-
-
-__Test Snippet 3:__
-
-[this title text is really long and takes up more than 
-one line
-
-and has some line breaks](
-    https://www.twitter.com
-)
-
-[this title text is really long and takes up more than 
-one line](
-https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule
-)
-
-
-[this link doesn't have a closing parenthesis](github.com
-
-And there's still some more text after that.
-
-[this link doesn't have a closing parenthesis for a while](https://cse.ucsd.edu/
-
-
-
-)
-
-And then there's more text
+![image](imgs/lr4/snippet-3.png)
