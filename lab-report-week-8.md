@@ -5,6 +5,10 @@
 
 I will test my implementation of MarkdownParse as well as the implementation my group reviewed as part of Lab 7. Here are the results! 
 
+My implemention can be found [here](https://github.com/Conrado-M-UCSD/markdown-parser).
+
+The implementation that I tested in lab 7 can be found [here](https://github.com/anhthony/markdown-parser).
+
 __Test snippet 1:__ 
 
 `[a link`](url.com)
