@@ -11,10 +11,15 @@ The implementation that was reviewed for lab 7 can be found [here](https://githu
 
 ___
 
-__Test snippet 1:__ 
+## Test 1: 
+
+**Snippet:**
 
 ![image](imgs/lr4/snippet-1.png)
 
+**Test method:**
+
+![image](imgs/lr4/test-method1.png)
 
 Expected links parsed: 
 
@@ -28,12 +33,17 @@ Links parsed by reviewed implementation:
 
 ___
 
-__Test Snippet 2:__
+## Test 2: 
+
+**Snippet:**
 
 ![image](imgs/lr4/snippet-2.png)
 
+**Test method:**
 
-Expected links parsed: 
+![image](imgs/lr4/test-method2.png)
+
+**Expected links parsed:**
 
 * a.com 
 * a.com() 
@@ -45,10 +55,15 @@ Links parsed by reviewed implementation:
 
 ___
 
-__Test Snippet 3:__ 
+## Test 3: 
+
+**Snippet:**
 
 ![image](imgs/lr4/snippet-3.png)
 
+**Test method**
+
+![image](imgs/lr4/test-method3.png)
 
 Expected links parsed: 
 
