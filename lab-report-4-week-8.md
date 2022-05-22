@@ -10,6 +10,7 @@ My implemention can be found [here](https://github.com/Conrado-M-UCSD/markdown-p
 The implementation that I tested in lab 7 can be found [here](https://github.com/anhthony/markdown-parser).
 
 ___
+
 __Test snippet 1:__ 
 
 ![image](imgs/lr4/snippet-1.png)
@@ -22,6 +23,7 @@ Output of my MarkdownParse:
 Output of reviewed MarkdownParse: 
 
 ___
+
 __Test Snippet 2:__
 
 ![image](imgs/lr4/snippet-2.png)
@@ -34,6 +36,7 @@ Output of my MarkdownParse:
 Output of reviewed MarkdownParse: 
 
 ___
+
 __Test Snippet 3:__ 
 
 ![image](imgs/lr4/snippet-3.png)
