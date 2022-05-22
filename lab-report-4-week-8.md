@@ -7,7 +7,7 @@ I will test my implementation of MarkdownParse as well as the implementation my 
 
 My implemention can be found [here](https://github.com/Conrado-M-UCSD/markdown-parser).
 
-The implementation that I tested in lab 7 can be found [here](https://github.com/anhthony/markdown-parser).
+The implementation that was reviewed for lab 7 can be found [here](https://github.com/anhthony/markdown-parser).
 
 ___
 
@@ -16,11 +16,15 @@ __Test snippet 1:__
 ![image](imgs/lr4/snippet-1.png)
 
 
-Expected: 
+Expected links parsed: 
 
-Output of my MarkdownParse: 
+* google.com
+* google.com
+* ucsd.edu
 
-Output of reviewed MarkdownParse: 
+Links parsed by my implementation: 
+
+Links parsed by reviewed implementation: 
 
 ___
 
@@ -29,11 +33,15 @@ __Test Snippet 2:__
 ![image](imgs/lr4/snippet-2.png)
 
 
-Expected: 
+Expected links parsed: 
 
-Output of my MarkdownParse: 
+* a.com 
+* a.com() 
+* example.com
 
-Output of reviewed MarkdownParse: 
+Links parsed by my implementation: 
+
+Links parsed by reviewed implementation:  
 
 ___
 
@@ -42,8 +50,14 @@ __Test Snippet 3:__
 ![image](imgs/lr4/snippet-3.png)
 
 
-Expected: 
+Expected links parsed: 
 
-Output of my MarkdownParse: 
+* https://www.twitter.com/
+* https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule
+* https://cse.ucsd.edu/
 
-Output of reviewed MarkdownParse: 
+Links parsed by my implementation: 
+
+Links parsed by reviewed implementation: 
+
+___
