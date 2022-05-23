@@ -1,5 +1,5 @@
 [Return to Homepage](https://Conrado-M-UCSD.github.io/CSE15L-Lab-Reports/index.html)
-# Lab Report 4: Testing Implementations of MarkdownParse
+# Lab Report 4: Testing Implementations of MarkdownParser
 
 ## Running snippets
 
