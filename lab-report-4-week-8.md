@@ -94,14 +94,14 @@ ___
 
 Since the results produced by my implementation were problematic, I began considering ways that I could correct this issue. Based on the provided exception, I knew that some issue was causing the index -2 to be searched.
 
-__Q1:__
+__Test 1:__
 
 At the moment, I don't know of a small fix that can fully resolve my issue. I did prevent the indexOutOfBounds exception by checking the element's index before continuing any searches. If an element was found to have a negative index, the program ends execution immediately. This does lead to the returned list of links being null though. If I do find a way that this can be addressed by the resubmission deadline, I'll be sure to add the changes. 
 
-__Q2:__
+__Test 2:__
 
 I couldn't find a way to resolve my index out of range issue. Since this issue was drastically differs from the others with a simple indexOutOfBounds exception, I feel the fix would be more complex. If I do find a small solution that fixes this issue, I'll update my code to implement this fix. 
 
-__Q3:__
+__Test 3:__ 
 
 I wasn't able to determine an easy fix that fully fixed my issue. Like with test 1, I was able to eliminate the indexOutOfBounds issue, but was not able to have the correct list of links returned. I would previously get exceptions whenever one of the searched for items was not on the current line. Since the index would be -1, Searching for the element before this index would lead to the program searching at index -2. If I discover a fix to the issue, I'll submit it as part of my regrade and upload my repo to reflect the new changes. 
