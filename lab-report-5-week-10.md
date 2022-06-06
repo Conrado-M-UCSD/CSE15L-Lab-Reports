@@ -6,6 +6,7 @@ Now that we've practiced using JDB to diagnose problems in code, we can apply th
 My method for selecting tests to examine involved adding a small conditional to the MarkdownParse main method. Specifically, I look for an args[0] = "-d" to denote a directory is being passed to method. Then, args[1] is the directory containing test files. Then, we run the test with each .md file in the diretory. The parsed links are then printed after each test is run. This solution for my group's implementation while I just ran the example implementation via IENG6 and the provided script.sh file, which printed the results. 
 
 ## First Test: `567.md`
+[Find 567.md here](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/567.md)
 
 __Input:__
 
@@ -25,6 +26,7 @@ In this example, I feel that the example implementation is correct. Although the
 
 
 ## Second Test: `500.md`
+[Find 500.md here](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/500.md)
 
 __Input:__ 
 
