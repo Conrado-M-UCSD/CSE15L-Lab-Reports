@@ -8,3 +8,4 @@ Here is the collection of lab reports I've completed in CSE15L
 - Lab Report 2 (Week 4) 
 - Lab Report 3 (Week 6) 
 - Lab Report 4 (Week 8) 
+- Lab Report 5 (Week 10)
